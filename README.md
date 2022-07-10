@@ -1,4 +1,4 @@
-# Netflix-data-vislualization
+# Netflix-data-visualization
 
 Netflix has a huge number of TV shows and Movies. 
 This analysis to get an insight of how they are distributed with respect to countries and different age groups.
